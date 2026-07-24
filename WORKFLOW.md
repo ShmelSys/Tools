@@ -1,11 +1,17 @@
-`python -m venv venv`
+Here is the command for creating a Python project with environement (PowerShell) :
 
-`ni requirements.txt, README.md, .gitignore`
+```
+python -m venv venv
 
-`md data, scripts`
+ni requirements.txt, README.md, .gitignore
 
-`"venv/" > .gitignore`
+md data, scripts
 
-`"# Data Cleaning`n1. python -m venv venv`n2. .\venv\Scripts\Activate.ps1`n3. pip install -r requirements.txt" > README.md`
+"venv/" > .gitignore
 
-.\venv\Scripts\Activate.ps1`
+"# Data Cleaning`n1. python -m venv venv`n2. .\venv\Scripts\Activate.ps1`n3. pip install -r requirements.txt" > README.md
+
+.\venv\Scripts\Activate.ps1
+
+```
+For quitting it is `deactivate`.
