@@ -1,5 +1,16 @@
-Here is the command for creating a Python project with environement (PowerShell) :
+## Here is the command for creating a Python project with environement (PowerShell) :
+1. Go to the place where you want to creat the project [(How)](https://github.com/ShmelSys/Tools/blob/main/Shell_commands.md)
+2.  Write:
+```
+uv init my_python_project
+md data, scripts
+```
 
+
+
+## The old way is:
+1. Go to the place where you want to creat the project [(How)](https://github.com/ShmelSys/Tools/blob/main/Shell_commands.md)
+2. Write:
 ```
 python -m venv venv
 
@@ -14,4 +25,4 @@ md data, scripts
 .\venv\Scripts\Activate.ps1
 
 ```
-For quitting it is `deactivate`.
+3. For quitting the .venv, write `deactivate`.
