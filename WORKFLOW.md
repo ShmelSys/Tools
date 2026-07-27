@@ -6,7 +6,7 @@ uv init my_python_project
 md data, scripts
 ```
 3. Download the libraries:
-```uv add pandas numpy ```
+```uv add ... ```
 
 
 ## The old way is:
