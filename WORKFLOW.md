@@ -5,7 +5,8 @@
 uv init my_python_project
 md data, scripts
 ```
-
+3. Download the libraries:
+```uv add pandas numpy ```
 
 
 ## The old way is:
@@ -25,4 +26,6 @@ md data, scripts
 .\venv\Scripts\Activate.ps1
 
 ```
-3. For quitting the .venv, write `deactivate`.
+3. Download the libraries:
+```pip install ...```
+4. For quitting the .venv, write `deactivate`.
