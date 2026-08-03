@@ -4,7 +4,7 @@
 ```
 uv init my_python_project
 cd my_python_project
-md data, scripts
+md data
 ```
 3. Download the libraries:
 ```
