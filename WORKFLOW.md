@@ -10,7 +10,10 @@ md data
 ```
 uv add ...
 ```
-
+4. Make the code work with all the functions:
+```
+uv run python -i code_generetor.py
+```
 
 ## The old way is:
 1. Go to the place where you want to creat the project [(How)](https://github.com/ShmelSys/Tools/blob/main/Shell_commands.md)
