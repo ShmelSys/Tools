@@ -12,7 +12,7 @@ uv add ...
 ```
 4. Make the code work with all the functions:
 ```
-uv run python -i code_generetor.py
+uv run python -i python_file.py
 ```
 
 ## The old way is:
