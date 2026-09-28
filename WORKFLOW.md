@@ -5,6 +5,7 @@
 uv init my_python_project
 cd my_python_project
 md data
+Add-Content .gitignore ".venv/`n__pycache__/`n.env"
 ```
 3. Download the libraries:
 ```
