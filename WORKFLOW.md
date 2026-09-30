@@ -15,6 +15,10 @@ uv add ...
 ```
 uv run python -i python_file.py
 ```
+5. For quitting the python terminal juste write:
+```
+quit()
+```
 
 ## The old way is:
 1. Go to the place where you want to creat the project [(How)](https://github.com/ShmelSys/Tools/blob/main/Shell_commands.md)
